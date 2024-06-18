@@ -1,0 +1,16 @@
+- Utilizar o Vite para iniciar um projeto React;
+- Instalar e implementar a biblioteca styled-components;
+- Criar um fundo com gradiente;
+- Normalizar o CSS com estilos globais.
+- Criar e estilizar o componente cabeçalho;
+- Estruturar a barra lateral;
+- Criar um item de lista que recebe um texto e uma imagem;
+- Importar fontes e defini-las como padrão.
+- Montar um layout desktop;
+- Estruturar o código de uma galeria de fotos com Flexbox;
+- Trabalhar com tags dinamicamente;
+- Importar fotos de um arquivo estático .json.
+- Corrigir bugs implementando a validação baseada no zoom da foto;
+- Implementar um map que compara dois parâmetros da foto;
+- Criar método de alternar favorito;
+- Aplicar método na galeria e na modal.
