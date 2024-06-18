@@ -1,4 +1,12 @@
-# React + Vite
+# Space app
+
+### Uma pequena abstração do mundo intergaláctico!
+
+##
+
+## Esta app foi desenvolvinda com React + Vite, e foi desenvolvida com o principal objetivo de exercitar o conhecimento de styled-components
+
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
